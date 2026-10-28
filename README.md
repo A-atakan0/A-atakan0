@@ -1,69 +1,58 @@
-<h1 align="center">Hi, I'm Atakan 👋</h1>
-<h3 align="center">Molecular Biologist & Geneticist | Transitioning into Bioinformatics</h3>
+<h1 align="center">Hi, I'm Atakan Aslan 👋</h1>
+<h3 align="center">Molecular Biology & Genetics Graduate · Bioinformatics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Molecular+Biology+%26+Genetics+Graduate;16S+rRNA+%7C+NGS+%7C+Sanger+Sequencing;Learning+Bioinformatics+%26+AI+for+Genomics;Building+DNA+Sequence+Analysis+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Molecular+Biology+%26+Genetics+Graduate;RNA-seq+%7C+Variant+Calling+%7C+Microbiome;From+wet+lab+to+dry+lab" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧬 About Me
 
-- 🎓 Sivas Cumhuriyet University, **Molecular Biology and Genetics** (2022–2026)
+- 🎓 B.Sc. **Molecular Biology and Genetics**, Sivas Cumhuriyet University (2020–2025)
 - 📄 Thesis: *"Bioinformatic Analysis and Taxonomic Classification of 16S rRNA Sequences"*
-- 🔬 Hands-on lab experience with RT-PCR, NGS, Sanger sequencing, and DNA/RNA isolation
-- 💻 Combining my wet-lab background with bioinformatics and software skills
-- 🌱 Currently learning: Python, bioinformatics tools, and data analysis
-- 🎯 Goal: Pursue a master's degree in Bioinformatics in Europe
-- 🤖 Working on: an AI system that analyzes DNA sequences and interprets results based on scientific literature
-- 📫 Reach me at: atakanaslan5022@gmail.com
+- 🔬 Wet-lab experience: RT-PCR, NGS, Sanger sequencing, DNA/RNA isolation
+- 💻 I build end-to-end, documented bioinformatics pipelines on public datasets: variant calling, RNA-seq, microbiome, phylogenetics and protein structure prediction
+- 🎯 Goal: M.Sc. in Bioinformatics in Europe
+- 📫 Reach me at: **atakanaslan5022@gmail.com**
 
 ---
 
-### 🧪 Molecular Techniques
+### 🚀 Featured Projects
 
-![RT-PCR](https://img.shields.io/badge/RT--PCR-2E9EF7?style=flat-square)
-![NGS](https://img.shields.io/badge/NGS-2E9EF7?style=flat-square)
-![Sanger Sequencing](https://img.shields.io/badge/Sanger%20Sequencing-2E9EF7?style=flat-square)
-![DNA/RNA Isolation](https://img.shields.io/badge/DNA%2FRNA%20Isolation-2E9EF7?style=flat-square)
-![Gel Electrophoresis](https://img.shields.io/badge/Gel%20Electrophoresis-2E9EF7?style=flat-square)
-
-### 🧫 Analytical Instruments
-
-![HPLC](https://img.shields.io/badge/HPLC-6f42c1?style=flat-square)
-![UV-VIS](https://img.shields.io/badge/UV--VIS%20Spectroscopy-6f42c1?style=flat-square)
-![FTIR](https://img.shields.io/badge/FTIR-6f42c1?style=flat-square)
-![GC-MS](https://img.shields.io/badge/GC--MS-6f42c1?style=flat-square)
-![GC-FID](https://img.shields.io/badge/GC--FID-6f42c1?style=flat-square)
-
-### 🖥️ Bioinformatics Tools & Software
-
-![BLAST](https://img.shields.io/badge/BLAST-2ea44f?style=flat-square)
-![NCBI](https://img.shields.io/badge/NCBI-2ea44f?style=flat-square)
-![UniProt](https://img.shields.io/badge/UniProt-2ea44f?style=flat-square)
-![STRING](https://img.shields.io/badge/STRING-2ea44f?style=flat-square)
-![GenBank](https://img.shields.io/badge/GenBank-2ea44f?style=flat-square)
-![QIIME2](https://img.shields.io/badge/QIIME2-2ea44f?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+| Project | Area | What I did |
+|---|---|---|
+| [**varyant-analizi-na12878**](https://github.com/A-atakan0/varyant-analizi-na12878) | Variant calling | GIAB NA12878 exome → FastQC, BWA-MEM, GATK4 HaplotypeCaller, bcftools; ClinVar annotation of BRCA1/BRCA2/EGFR variants (99.85% mapping rate) |
+| [**rnaseq-meme-kanseri-analizi**](https://github.com/A-atakan0/rnaseq-meme-kanseri-analizi) | Transcriptomics | Breast cancer tumour vs. normal RNA-seq (PRJNA432903): HISAT2 → featureCounts → PyDESeq2 → GO enrichment; independently reproduces the original study's lymphocyte-activation finding |
+| [**mikrobiyom-analizi-uc**](https://github.com/A-atakan0/mikrobiyom-analizi-uc) | Microbiome | Full-length Nanopore 16S rRNA from ulcerative colitis patients: NanoPlot, Chopper, Emu species-level profiling, Shannon diversity |
+| [**egfr-kinaz-yapi-tahmini**](https://github.com/A-atakan0/egfr-kinaz-yapi-tahmini) | Structural bioinformatics | EGFR kinase domain predicted with ColabFold/AlphaFold2 (pLDDT 91.1), validated with InterProScan, visualised in PyMOL |
+| [**bacillus-16s-filogenetik**](https://github.com/A-atakan0/bacillus-16s-filogenetik) | Phylogenetics | 16S rRNA phylogeny of 15 *Bacillus* species: Biopython Entrez, MAFFT, IQ-TREE (ModelFinder, 1000 UFBoot) |
 
 ---
 
-### 🚀 Project I'm Working On
+### 🛠️ Bioinformatics Skills
 
-**DNA Sequence Analysis System** — building an AI-powered tool that takes DNA sequences, analyzes them, and interprets the results grounded in academic literature. The system will keep all generated code and outputs organized, and point users to relevant domain experts when needed.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+- **NGS & genomics:** FastQC, BWA-MEM, HISAT2, samtools, GATK4, bcftools, featureCounts, SRA Toolkit
+- **Data analysis (Python):** pandas, NumPy, SciPy, Biopython, PyDESeq2, gseapy, scikit-learn, matplotlib, seaborn
+- **Microbiome & phylogenetics:** Emu, NanoPlot, Chopper, QIIME2, MAFFT, IQ-TREE
+- **Protein structure:** ColabFold (AlphaFold2), PyMOL, InterProScan
+- **Databases:** NCBI (GenBank, SRA, Entrez), BLAST, UniProt, ClinVar, STRING
+
+### 🔬 Lab Background
+
+RT-PCR · NGS · Sanger sequencing · DNA/RNA isolation · Gel electrophoresis · HPLC · UV-Vis · FTIR · GC-MS · GC-FID
+
+### 🔭 Next Up
+
+Molecular docking of the predicted EGFR kinase model with AutoDock Vina.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=A-atakan0&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-atakan0&layout=compact&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <em>From wet lab to dry lab: making sense of genetics through code.</em>
-</p>
+<p align="center"><i>From wet lab to dry lab: making sense of genetics through code.</i></p>
