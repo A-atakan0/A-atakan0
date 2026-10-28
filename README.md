@@ -9,7 +9,7 @@
 
 ### 🧬 About Me
 
-- 🎓 B.Sc. **Molecular Biology and Genetics**, Sivas Cumhuriyet University (2020–2025)
+- 🎓 B.Sc. **Molecular Biology and Genetics**, Sivas Cumhuriyet University (2022–2026)
 - 📄 Thesis: *"Bioinformatic Analysis and Taxonomic Classification of 16S rRNA Sequences"*
 - 🔬 Wet-lab experience: RT-PCR, NGS, Sanger sequencing, DNA/RNA isolation
 - 💻 I build end-to-end, documented bioinformatics pipelines on public datasets: variant calling, RNA-seq, microbiome, phylogenetics and protein structure prediction
